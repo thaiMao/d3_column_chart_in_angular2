@@ -9,6 +9,8 @@ The D3 column chart consumes the data, and reflects the changes in realtime.
 
 Built with Angular CLI.
 
+Responsive Layout
+
 ![Alt text](stock_prices_responsive.gif?raw=true "Stock Prices Responsive Layout")
 
 
